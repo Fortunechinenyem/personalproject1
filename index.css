@@ -68,6 +68,18 @@ html {
 .body2 {
     background-color: rgb(235, 243, 240);
 }
+.body3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./Images/ransford-quaye-6xnLel-EFyo-unsplash.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+    
+        color: var(--clr-light);
+        margin: 0;
+        font-family: var(--ff-primary);
+        font-size: var(--fs-body);
+        line-height: 1.6;
+}
 section {
     padding: 5em 2em;
 }
